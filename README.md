@@ -13,6 +13,9 @@ This project implements a basic Tic-Tac-Toe game where two players take turns ma
 - Players can reset the game to start over.
 - Players can start a new game at any time.
 
+## Preview
+![titactoe](https://github.com/khushi2807/Tic-Tac-Toe/assets/109760268/1f04a58c-eb9c-498a-b44a-68205011bee1)
+
 ## Technologies Used
 
 - HTML
